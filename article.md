@@ -1,3 +1,4 @@
+# Iterators and generators
 JavaScript is currently the most popular programming language according to many platforms (such as GitHub). However, does popularity equate to being the most advanced or beloved language? It lacks certain constructs that are considered integral parts of other languages, such as an extensive standard library, immutability, and macros. But there is one detail that, in my opinion, doesn't receive enough attention - generators.
 
 In this article I want to explain possible use cases for iterators and generators and how they improve the verbosity of one's code. I hope, that after reading this article the following piece of code will make all the sense:
